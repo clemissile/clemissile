@@ -34,7 +34,7 @@
 
 - Front-end Developer at [EM Normandie Business School](https://www.em-normandie.com)
 
-![Metrics](https://raw.githubusercontent.com/clemissile/clemissile/github-metrics/github-metrics.svg)
+![Metrics](https://github.com/clemissile/clemissile/blob/github-metrics/github-metrics.svg)
 
 <!--
 **clemissile/clemissile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
