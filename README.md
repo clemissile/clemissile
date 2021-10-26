@@ -16,7 +16,7 @@
 
   <a href="https://app.daily.dev/clemissile" target="_blank">
     <img
-      width="350"
+      width="325"
       align="right"
       src="https://github.com/clemissile/clemissile/blob/devcard/devcard.svg"
     />
