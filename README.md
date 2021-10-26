@@ -32,6 +32,7 @@
 
 ## I am Clément Ganivet
 
+- 🔭 Founder at [Olina Lab](https://olinalab.fr)
 - 💻 Front-end Developer at [EM Normandie Business School](https://www.em-normandie.com)
 
 ![Metrics](https://raw.githubusercontent.com/clemissile/clemissile/github-metrics/github-metrics.svg)
