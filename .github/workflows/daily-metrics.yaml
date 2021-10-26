@@ -32,7 +32,7 @@ jobs:
 
           # Achievement plugin
           plugin_achievements: yes
-          plugin_achievements_threshold: B
+          #plugin_achievements_threshold: B
 
           # Notable contributions
           #plugin_notable: yes
