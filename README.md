@@ -1,25 +1,30 @@
 # Hi there 👋
 
 <div align="left">
-  <a href="https://twitter.com/clemissile">
+  <a href="https://twitter.com/clemissile" target="_blank">
     <img
       src="https://img.shields.io/twitter/follow/clemissile?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
       alt="Twitter"
     />
   </a>
-  <a href="https://www.linkedin.com/in/clementganivet/">
+  <a href="https://www.linkedin.com/in/clementganivet/" target="_blank">
     <img
       src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
       alt="LinkedIn"
     />
   </a>
 
-  <a href="https://app.daily.dev/clemissile">
+  <a href="https://app.daily.dev/clemissile" target="_blank">
     <img
+      width="350"
+      align="right"
+      src="https://api.daily.dev/devcards/c1485615db414b3ca23d7f2867941250.png?r=xkl"
+    />
+    <!-- <img
       src="https://api.daily.dev/devcards/c1485615db414b3ca23d7f2867941250.png?r=xkl"
       width="400"
       alt="Clément GANIVET's Dev Card"
-    />
+    /> -->
   </a>
 </div>
 
