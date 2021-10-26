@@ -18,7 +18,7 @@
     <img
       width="350"
       align="right"
-      src="https://api.daily.dev/devcards/c1485615db414b3ca23d7f2867941250.png?r=xkl"
+      src="https://github.com/clemissile/clemissile/blob/master/devcard.svg"
     />
     <!-- <img
       src="https://api.daily.dev/devcards/c1485615db414b3ca23d7f2867941250.png?r=xkl"
