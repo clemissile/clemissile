@@ -1,7 +1,7 @@
 # Hi there 👋
 
 <div align="left">
-  <a href="https://twitter.com/clemissile" target="_blank">
+  <a href="https://github.com/clemissile">
     <img
       src="https://img.shields.io/github/followers/clemissile?label=Follow&logo=github&style=flat-square&color=1da1f2&logoColor=ffffff"
       alt="GitHub"
