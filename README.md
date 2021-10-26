@@ -13,6 +13,18 @@
       alt="LinkedIn"
     />
   </a>
+  <a href="https://www.olinalab.fr/" target="_blank">
+    <img
+      src="https://img.shields.io/static/v1?label=olinalab.fr&style=flat-square&message=@&color=009c9a"
+      alt="Olina Lab website"
+    />
+  </a>
+  <a href="https://www.linkedin.com/company/olina-lab/" target="_blank">
+    <img
+      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=Olina%20Lab&message=%E2%98%86"
+      alt="LinkedIn Olina Lab"
+    />
+  </a>
 
   <a href="https://app.daily.dev/clemissile" target="_blank">
     <img
