@@ -3,8 +3,8 @@
 <div align="left">
   <a href="https://twitter.com/clemissile" target="_blank">
     <img
-      src="https://img.shields.io/twitter/follow/clemissile?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
-      alt="Twitter"
+      src="https://img.shields.io/github/followers/clemissile?label=Follow&logo=github&style=flat-square&color=1da1f2&logoColor=ffffff"
+      alt="GitHub"
     />
   </a>
   <a href="https://www.linkedin.com/in/clementganivet/" target="_blank">
