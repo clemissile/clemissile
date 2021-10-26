@@ -18,10 +18,10 @@
     <img
       width="300"
       align="right"
-      src="https://github.com/clemissile/clemissile/blob/devcard/devcard.svg"
+      src="https://raw.githubusercontent.com/clemissile/clemissile/devcard/devcard.svghttps://github.com/clemissile/clemissile/blob/devcard/devcard.svg"
     />
     <!-- <img
-      src="https://api.daily.dev/devcards/c1485615db414b3ca23d7f2867941250.png?r=xkl"
+      src="https://github.com/clemissile/clemissile/blob/devcard/devcard.svg"
       width="400"
       alt="Clément GANIVET's Dev Card"
     /> -->
@@ -34,7 +34,7 @@
 
 - 💻 Front-end Developer at [EM Normandie Business School](https://www.em-normandie.com)
 
-![Metrics](https://github.com/clemissile/clemissile/blob/github-metrics/github-metrics.svg)
+![Metrics](https://raw.githubusercontent.com/clemissile/clemissile/github-metrics/github-metrics.svg)
 
 <!--
 **clemissile/clemissile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
