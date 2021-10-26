@@ -32,7 +32,7 @@
 
 ## I am Clément Ganivet
 
-- Front-end Developer at [EM Normandie Business School](https://www.em-normandie.com)
+- 💻 Front-end Developer at [EM Normandie Business School](https://www.em-normandie.com)
 
 ![Metrics](https://github.com/clemissile/clemissile/blob/github-metrics/github-metrics.svg)
 
