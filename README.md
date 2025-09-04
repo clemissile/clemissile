@@ -45,7 +45,7 @@
 ## I am Clément Ganivet
 
 - 🔭 Founder at [Olina Lab](https://olinalab.fr)
-- 💻 Front-end Developer at [Legallais]([https://www.legallais.com/])
+- 💻 Front-end Developer at [Legallais](https://www.legallais.com/)
 - ☕ [Buy me a coffee](https://www.buymeacoffee.com/clemissile)
 
 ![Metrics](https://raw.githubusercontent.com/clemissile/clemissile/github-metrics/github-metrics.svg)
