@@ -18,3 +18,5 @@ jobs:
           user_id: ${{ secrets.DEVCARD_ID }}
           commit_branch: devcard
           commit_message: "chore: update ${filename}"
+          committer_email: ganivetclement@protonmail.com
+          committer_name: clemissile
