@@ -30,7 +30,7 @@
     <img
       width="300"
       align="right"
-      src="https://raw.githubusercontent.com/clemissile/clemissile/devcard/devcard.svg"
+      src="https://raw.githubusercontent.com/clemissile/clemissile/devcard/devcard.png"
     />
     <!-- <img
       src="https://github.com/clemissile/clemissile/blob/devcard/devcard.svg"
