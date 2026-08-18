@@ -41,4 +41,5 @@ jobs:
           plugin_achievements: yes
           plugin_achievements_display: compact
 
-          debug: yes
+          debug: no
+          plugin_projects: yes
