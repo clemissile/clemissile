@@ -35,7 +35,7 @@ jobs:
           plugin_languages_details: bytes-size, percentage
 
           # Calendar plugin
-          plugin_isocalendar: yes
+          plugin_calendar: yes
 
           # Achievement plugin
           plugin_achievements: yes
