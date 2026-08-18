@@ -16,7 +16,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: stalomeow/metrics@projects-v2 #lowlighter/metrics@latest
+      - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           # GITHUB_TOKEN is a special auto-generated token used for commits
@@ -42,4 +42,3 @@ jobs:
           plugin_achievements_display: compact
 
           debug: no
-          plugin_projects: yes
