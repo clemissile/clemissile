@@ -32,17 +32,12 @@
       align="right"
       src="https://raw.githubusercontent.com/clemissile/clemissile/devcard/devcard.png"
     />
-    <!-- <img
-      src="https://github.com/clemissile/clemissile/blob/devcard/devcard.svg"
-      width="400"
-      alt="Clément GANIVET's Dev Card"
-    /> -->
   </a>
 </div>
 
 <br />
 
-## I am Clément Ganivet
+## clemissile
 
 - 🔭 Founder at [Olina Lab](https://olinalab.fr)
 - 💻 Front-end Developer at [Legallais](https://www.legallais.com/)
