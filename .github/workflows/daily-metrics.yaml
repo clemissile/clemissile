@@ -11,6 +11,10 @@ on:
 jobs:   
   github-metrics:
     runs-on: ubuntu-latest
+    environment: 
+      name: production
+    permissions:
+      contents: write
     steps:
       - uses: lowlighter/metrics@latest
         with:
@@ -35,5 +39,6 @@ jobs:
 
           # Achievement plugin
           plugin_achievements: yes
+          plugin_achievements_display: compact
 
           debug: yes
