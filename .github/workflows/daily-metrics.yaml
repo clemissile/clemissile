@@ -23,6 +23,8 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           committer_branch: github-metrics
           committer_message: "build: update `${filename}`"
+          committer_email: ${{ secrets.EMAIL }}
+          committer_name: clemissile
 
           # Options
           user: clemissile
